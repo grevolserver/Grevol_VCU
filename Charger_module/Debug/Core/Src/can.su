@@ -1,0 +1,5 @@
+../Core/Src/can.c:12:6:CAN_init	8	static
+../Core/Src/can.c:26:6:Charger_CAN_config	8	static
+../Core/Src/can.c:39:6:CAN_Tx	16	static
+../Core/Src/can.c:52:6:CAN_Rx	8	static
+../Core/Src/can.c:61:6:HAL_FDCAN_RxFifo0Callback	16	static
