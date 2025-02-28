@@ -1,0 +1,5 @@
+can.c:12:6:CAN_init	3
+can.c:26:6:Charger_CAN_config	1
+can.c:39:6:CAN_Tx	2
+can.c:52:6:CAN_Rx	2
+can.c:61:6:HAL_FDCAN_RxFifo0Callback	2

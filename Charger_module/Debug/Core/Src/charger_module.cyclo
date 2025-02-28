@@ -1,0 +1,5 @@
+charger_module.c:25:6:Format_Bms_Msg	1
+charger_module.c:38:6:Bms_Demand	1
+charger_module.c:52:16:Charger_response	2
+charger_module.c:70:10:Read_Current	1
+charger_module.c:77:10:Read_Voltage	1
