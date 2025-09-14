@@ -1,0 +1,5 @@
+../Core/Src/charger_module.c:25:6:Format_Bms_Msg	24	static
+../Core/Src/charger_module.c:38:6:Bms_Demand	48	static
+../Core/Src/charger_module.c:52:16:Charger_response	24	static
+../Core/Src/charger_module.c:70:10:Read_Current	32	static
+../Core/Src/charger_module.c:77:10:Read_Voltage	32	static
